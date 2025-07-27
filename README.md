@@ -291,7 +291,7 @@ plans and directions.
 ## Contributing
 
 See [Contributing](CONTRIBUTING.md) for more information on contributing to the Firebase
-Apple SDK.
+IoS SDK.
 
 ## License
 
